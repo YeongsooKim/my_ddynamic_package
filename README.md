@@ -21,6 +21,8 @@ When you write nodehandle, you have to use private nodehandle ```ros::NodeHandle
 roslaunch my_ddynamic_package my_ddynamic_package.launch
 ```
 
+**Terminal 2:**
+
 ``` bash
 rosrun rqt_reconfigure rqt_reconfigure
 ```
