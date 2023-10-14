@@ -3,7 +3,7 @@ The [ddynamic_reconfigure](https://github.com/pal-robotics/ddynamic_reconfigure)
 
 ## Install
 ```
-sudo apt-get install ros-$ROS_DISTRO-ddynamic_reconfigure
+sudo apt-get install ros-$ROS_DISTRO-ddynamic-reconfigure
 sudo apt-get install ros-$ROS_DISTRO-rqt-reconfigure
 ```
 
