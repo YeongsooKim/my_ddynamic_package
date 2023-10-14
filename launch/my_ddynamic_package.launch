@@ -1,0 +1,4 @@
+<launch>
+    <node name="my_dynamic_node" type="my_dynamic_node" pkg="my_ddynamic_package" output="screen"> 
+    </node>
+</launch>
