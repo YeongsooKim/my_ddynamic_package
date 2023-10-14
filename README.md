@@ -15,11 +15,13 @@ This package requires at least C++11. If you have cmake version at least 3.1 the
 When you write nodehandle, you have to use private nodehandle ```ros::NodeHandle nhp(namespace)```
 
 ### Execute
-``` terminal 1
+**Terminal 1:**
+
+```bash
 roslaunch my_ddynamic_package my_ddynamic_package.launch
 ```
 
-``` terminal 2
+``` bash
 rosrun rqt_reconfigure rqt_reconfigure
 ```
 
